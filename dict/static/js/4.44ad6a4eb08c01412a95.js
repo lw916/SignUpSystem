@@ -1,0 +1,2 @@
+webpackJsonp([4],{"b+9r":function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var s={render:function(){this.$createElement;this._self._c;return this._m(0)},staticRenderFns:[function(){var e=this.$createElement,t=this._self._c||e;return t("div",{staticClass:"Login"},[t("h1",[this._v("恭喜！签到成功")])])}]};var i=n("VU/8")({name:"Success"},s,!1,function(e){n("oeOP")},"data-v-96f5bd26",null);t.default=i.exports},oeOP:function(e,t){}});
+//# sourceMappingURL=4.44ad6a4eb08c01412a95.js.map
