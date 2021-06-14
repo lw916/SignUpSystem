@@ -1,6 +1,7 @@
 # SignUpSystem
 
 用python写的一个基础型二维码签到系统，配合vue
+上传人员名单使用excel文件
 
 安装介绍：
 
